@@ -1,0 +1,51 @@
+body{
+
+    background-color: rgb(63, 60, 60);
+}
+
+
+.Wikivalo {
+    border: rgba(220, 20, 60) solid;
+    text-align: center;
+    background-color: rgb(14, 25, 35);
+    color :crimson;
+}
+
+#shop{
+    width: 720px;
+    height: 400px;
+}
+.center{
+text-align: center;
+
+}
+.center img {
+    display: block;
+    margin: 0 auto;
+       }
+#agents{
+        width: 720px;
+        height: 400px;
+        display: block;
+    margin: 0 auto;
+        }    
+        #maps{
+            width: 720px;
+            height: 400px;
+        }
+        h2{
+color: whitesmoke;
+text-align: center;
+
+        }
+#cours{
+    color: white;
+    background-color: red;
+}       
+a:link {
+    text-decoration: none;
+    color:  white;
+}
+
+
+h1{ color: white;}

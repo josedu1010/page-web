@@ -1,0 +1,105 @@
+body{
+background-color: rgb(63, 60, 60);
+
+}
+
+.Weapons {
+    border: rgba(220, 20, 60) solid;
+    
+    background-color: rgb(14, 25, 35);
+    color :crimson;
+}
+
+
+.right{
+    text-align: right;
+    
+    }
+.left{
+text-align: left;
+text-align: start;
+}    
+
+.div{
+display:flex;
+
+}
+
+table{
+    height: 316px;
+    width:560px ;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    border: white solid;
+    background-color: rgba(245, 245, 245, 0.658);
+
+}
+
+h1{
+color: white;
+ font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+button{
+    color: crimson;
+    background-color:rgb(14, 25, 35) ;
+}
+
+#Weapons-img{
+    height: 315px;
+    width:560px ;
+}
+#agents{
+width: 200px;
+height: 300px;
+}
+#agents-reyna{
+    width: 150px;
+    height: 350px;
+    }
+p{ 
+  text-align: center;
+    color: white;
+    background-color : rgb(14, 25, 35) ;
+    border : crimson solid;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+h2{
+    color: white;
+    
+    font-size: 34px;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;   
+}
+
+
+.yorufond{
+    border :rgb(14, 25, 35) solid;
+    background-color: rgba(31, 17, 158, 0.829);}
+
+
+ #Split     {width: 720px;
+ height: 400px;}
+
+ .title{
+    border :rgb(14, 25, 35) solid;
+    background-color: rgb(199, 47, 77);}
+
+ #minimaps{width: 720px;
+    height: 650px;}
+
+    #Breeze     {width: 720px;
+        height: 400px;}
+
+        #valoimg{ width: 250px;
+            height: 250px}
+
+#valotext{
+    border: none;
+
+
+}            
+ #valobody{
+     background-color: rgb(14, 25, 35) ;
+ }
+ .center{
+    text-align: center;
+    }
+    
